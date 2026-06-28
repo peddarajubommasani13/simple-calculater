@@ -1,5 +1,3 @@
-# simple-calculater
-
 # Java Console Calculator 
 
 ## Description
